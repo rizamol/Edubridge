@@ -1,4 +1,4 @@
-# Edubridge is my organisation of data science/data analytics course.
-I am included this edubridge resiporitory some assignment works and project.
-Python programs are add in this assignment page.
-A mini project work using tableau is also added.
+# Data Analysis using different tools added in the Edubridge resiporitatry.
+I added some project works and assigments in this resiporitory edubridge.
+Python programs added in assignment folder.
+A mini project work using tableau added in project work.
