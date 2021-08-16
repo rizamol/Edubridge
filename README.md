@@ -4,8 +4,8 @@ Python programs added in assignment folder.
 A mini project work using tableau added in project work.
 Excel work added.
 # Contents
-Assignment
-Project works
+Assignment.
+Project works.
 # Tools
 Anaconda
 Tableau Desktop
