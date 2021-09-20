@@ -7,9 +7,9 @@ Excel work added.
 Assignment.
 Project works.
 # Tools
-Anaconda
-Tableau Desktop
-Excel
+  Anaconda
+  Tableau Desktop
+  Excel
 # Assignment
 Python codes added
 # Project
