@@ -7,10 +7,10 @@
 # 🎗Assignment.
 # 🎗Project works.
 #  Tools
-#🛠 R
-#🛠Tableau Desktop
-#🛠Excel
-#🛠 Python
+# 🛠 R
+# 🛠Tableau Desktop
+# 🛠Excel
+# 🛠 Python
 # Assignment
 Python codes added
 # Project
