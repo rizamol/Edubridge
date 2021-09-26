@@ -2,11 +2,13 @@
 
 Tableau : Mini project works added.
 
-A project work in excel added.
+Excel : A project work in excel added.
 
-Indivdual and group project in python added.
+Indivdual : Indivdual project works added.
 
-FinalProject: Added final projects works. It completed using different tools with same data set
+Group : Group Project works added.
+
+FinalProject : Added final projects works. It completed using different tools with same data set
 
 Python : Projects works using python.
 
