@@ -7,16 +7,30 @@ I added some project works and assigments in this resiporitory edubridge.
  🎗Assignment.
 
  🎗Project works.
-#  Tools
-# 🛠 R
-# 🛠Tableau Desktop
-# 🛠Excel
-# 🛠 Python
-# 🛠 SAS 
+
+Tools
+
+🛠 R
+
+🛠Tableau Desktop
+
+🛠Excel
+
+🛠 Python
+
+🛠 SAS 
+
 # Assignment
+
 Python codes added
+
 # Project
-The projects based on EDA of datasets.
+
+Some analyis work uisng different tools added
+
+EDA 
+
+ML
 
 # Thank You...
 
