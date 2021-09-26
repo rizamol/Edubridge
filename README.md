@@ -30,6 +30,8 @@ I added some project works and assigments in this resiporitory edubridge.
 
 Python codes added
 
+R codes added
+
 # Project
 
 Some analyis work uisng different tools added
