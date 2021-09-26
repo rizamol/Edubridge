@@ -1,4 +1,4 @@
-# # Data Analysis
+# Data Analysis
 Data Analysis using different tools added in the Edubridge resiporitatry.
 
 I added some project works and assigments in this resiporitory edubridge.
