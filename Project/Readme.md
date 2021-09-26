@@ -8,8 +8,8 @@ Indivdual : Indivdual project works added.
 
 Group : Group Project works added.
 
-FinalProject : Added final projects works. It completed using different tools with same data set
+FinalProject : Added final projects works. It completed using different tools with same dataset.
 
-Python : Projects works using python.
+Python : Project works using python.
 
 R : Project works using R
