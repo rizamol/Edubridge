@@ -1,6 +1,6 @@
 # Works
 
-Mini project of analyisis report using tableau.
+Tableau : Mini project works added.
 
 A project work in excel added.
 
